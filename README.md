@@ -17,5 +17,3 @@ A **real-time training monitor for YOLOv8** that tracks training progress, detec
 - Telegram notifications for all critical events.
 - Automatic termination of YOLO training process (optional) if severe overfitting persists.
 - Generates training reports and snapshot images of live metrics.
-
----
