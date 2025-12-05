@@ -44,7 +44,7 @@ You are **NOT allowed** to:
 For permission to use, modify, or distribute this code, please contact:
 
 **Ragul S J**  
-Email: [your email here]  
+Email: [your email here](sjragul005@gmail.com)
 GitHub: [https://github.com/ragul-sj-005](https://github.com/ragul-sj-005)
 
 ---
